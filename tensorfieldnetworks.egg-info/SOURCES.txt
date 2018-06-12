@@ -1,0 +1,9 @@
+setup.py
+tensorfieldnetworks/__init__.py
+tensorfieldnetworks/layers.py
+tensorfieldnetworks/utils.py
+tensorfieldnetworks.egg-info/PKG-INFO
+tensorfieldnetworks.egg-info/SOURCES.txt
+tensorfieldnetworks.egg-info/dependency_links.txt
+tensorfieldnetworks.egg-info/not-zip-safe
+tensorfieldnetworks.egg-info/top_level.txt
